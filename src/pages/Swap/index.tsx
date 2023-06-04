@@ -650,7 +650,7 @@ export function Swap({
               element={InterfaceElementName.CONNECT_WALLET_BUTTON}
             >
               <ButtonLight onClick={toggleWalletDrawer} fontWeight={600}>
-                <Trans>Connect Wallet</Trans>
+                <Trans>Connect Wallet1</Trans>
               </ButtonLight>
             </TraceEvent>
           ) : chainId && chainId !== connectedChainId ? (
